@@ -1,2 +1,2 @@
-answer = input("Type in any equation: ")
-exec("print(" + answer + ")" )
+a = input()
+exec("print("+a+")")
