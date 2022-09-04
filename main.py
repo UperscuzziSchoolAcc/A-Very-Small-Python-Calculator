@@ -1,2 +1,1 @@
-a = input()
-exec("print("+a+")")
+exec("print("+input()+")")
