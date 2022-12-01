@@ -1,1 +1,1 @@
-exec("print("+input()+")")
+exec(f"print({input()})")
