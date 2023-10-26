@@ -1,1 +1,1 @@
-exec(f"print({input()})")
+print(eval(input()))
