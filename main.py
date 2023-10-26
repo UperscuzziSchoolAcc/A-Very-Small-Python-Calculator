@@ -1,1 +1,1 @@
-print(eval("%s"%input()))
+print(eval(input()))
